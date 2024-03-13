@@ -1,0 +1,2 @@
+KL-UCB:
+    https://proceedings.mlr.press/v19/garivier11a/garivier11a.pdf

@@ -1,0 +1,5 @@
+numStates 8194
+numActions 10
+end 8192 8193
+mdptype episodic
+discount 1.0
